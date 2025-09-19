@@ -35,4 +35,4 @@ time = 3
 
 interest = principal * rate * time
 
-print("The simple interest is:", simple_interest)
+print("The simple interest is:", interest)
