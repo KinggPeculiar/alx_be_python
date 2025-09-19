@@ -1,6 +1,5 @@
 # 2. Calculate the Area of a Rectangle
-# mandatory
-# Score: 0.0% (Checks completed: 0.0%)
+
 # Objective: Use basic Python arithmetic operations and variable assignments to calculate the area of a rectangle using its length and width.
 
 # Task Description:
