@@ -33,15 +33,15 @@
 # SOLUTION
 
 # Prompt user for monthly income and expenses
-monthly_income = input("Enter your monthly income: ")
-monthly_expenses = input("Enter your total monthly expenses: ")
+a = input("Enter your monthly income: ")
+b = input("Enter your total monthly expenses: ")
 
 # Convert inputs from default strings to integars using int function
-a = int(monthly_income)
-b = int(monthly_expenses)
+monthly_income = int(a)
+monthly_expenses = int(b)
 
 # Calculate monthly savings
-monthly_savings = a - b
+monthly_savings = monthly_income - monthly_expenses
 print(f"Your monthly saving are ${monthly_savings}")
 
 # If annual interest rate = 5% (0.05)
